@@ -1,2 +1,0 @@
-# tutoring-class-tracker
-WIP
